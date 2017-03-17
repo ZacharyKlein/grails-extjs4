@@ -1,4 +1,4 @@
-package org.grails.plugin
+package org.grails.plugins
 
 class UrlMappings {
 
