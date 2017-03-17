@@ -1,5 +1,7 @@
 
 target
+.gradle
+build/
 .idea
 .settings
 .classpath

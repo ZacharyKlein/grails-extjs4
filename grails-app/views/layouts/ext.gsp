@@ -2,8 +2,8 @@
 
 <head>
   <title><g:layoutTitle default="Ext JS4"/></title>
-  <link rel="stylesheet" href="${resource(dir:'ext/resources/css', file: 'ext-all.css')}" />
-  <script type="text/javascript" src="${resource(dir:'ext', file: 'bootstrap.js')}"></script>
+  <asset:stylesheet src="ext/resources/css/ext-all.css" />
+  <asset:javascript src="ext/bootstrap.js" />
   <g:layoutHead/>
 </head>
 
@@ -12,4 +12,3 @@
 </body>
 
 </html>
-  
